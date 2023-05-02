@@ -1,0 +1,27 @@
+{
+  "name": "gf.js",
+  "version": "1.0.0",
+  "description": "i think i have a gf i dont entirely know how a gf is defined but i think she is so i made this library to help me",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintexists/gf.js.git"
+  },
+  "keywords": [
+    "gf",
+    "girlfriend",
+    "love",
+    "romance",
+    "relationship"
+  ],
+  "author": "mintexists",
+  "license": "Drip License",
+  "bugs": {
+    "url": "https://github.com/mintexists/gf.js/issues"
+  },
+  "homepage": "https://github.com/mintexists/gf.js#readme"
+}
