@@ -7,6 +7,7 @@ This is a library to help me specifically know if she is my girlfriend or not.
 
 ## Why does this exist?
 A friend made a joke and I made it into reality.
+![image](https://user-images.githubusercontent.com/88806187/236359307-f1b35a5d-2f43-4612-a3dc-0041010f51d6.png)
 
 ## Usage
 
